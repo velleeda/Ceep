@@ -30,10 +30,10 @@ $ live-server
 
 ```
 
-# Install Live Server via VS Code
+## Install Live Server via VS Code
 
 ![](./gifs/install.gif)
 
-# Run Live Server via VS Code
+## Run Live Server via VS Code
 
 ![](./gifs/run.gif)
