@@ -3,7 +3,6 @@ import BotaoDeleta from "./components/deletaTarefa.js";
 
 const criarTarefa = (event) => {
   event.preventDefault();
-  input.value = "";
 
   const lista = document.querySelector("[data-list]");
   const input = document.querySelector("[data-form-input]");
@@ -12,6 +11,8 @@ const criarTarefa = (event) => {
   const tarefa = document.createElement("li");
   tarefa.classList.add("task");
   tarefa.innerHTML = conteudo;
+
+  input.value = "";
 
   tarefa.appendChild(BotaoConclui());
   tarefa.appendChild(BotaoDeleta());
