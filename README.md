@@ -1,6 +1,6 @@
 # Ceep
 
-Projeto criado em um dos cursos de Javascript da Alura para aprender sobre como manipular o DOM com JavaScript;<br />
+Projeto criado em um dos cursos de Javascript da Alura para aprender sobre como manipular o DOM com JavaScript. <br />
 
 Nele aprendi como: <br />
 
