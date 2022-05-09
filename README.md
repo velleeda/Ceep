@@ -1,13 +1,13 @@
 # Ceep
 
-Projeto criado em um dos cursos de Javascript da Alura para aprender sobre como manipular o DOM com JavaScript. <br />
+Project created in one of Alura's Javascript courses to learn how to manipulate the DOM with JavaScript. <br />
 
-Nele aprendi como: <br />
+In it I learned how: <br />
 
-- Funciona o DOM;
-- Manipular o DOM para alterar, adicionar, remover e criar novos elementos na árvore de objetos;
-- Trabalhar com componentização para facilitar a organização do projeto;
-- Utilizar o sistema de módulos do Javascript para proteger os arquivos.
+- DOM works;
+- Manipulate the DOM to change, add, remove and create new elements in the object tree;
+- Work with componentization to facilitate the organization of the project;
+- Use the Javascript module system to protect files.
 
 # Overview
 
